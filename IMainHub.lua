@@ -1,6 +1,6 @@
 local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZISARHUB/EEZZ/main/UI", true))()
 
-local Window = Lib:Window("IMainHub")
+local Window = Lib:Window("IMAINHUB")
 
 Window:Button("Mukuro hub", function()
 _G.Color = Color3.fromRGB(0, 255, 255)
